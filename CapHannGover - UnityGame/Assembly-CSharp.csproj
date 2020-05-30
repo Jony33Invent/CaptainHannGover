@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\Grounded.cs" />
      <Compile Include="Assets\Scripts\MoveScript.cs" />
      <Compile Include="Assets\Scripts\cameraController.cs" />
+     <Compile Include="Assets\deathChecker.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/jonat/GameDev/CaptainHannGover/CapHannGover - UnityGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
